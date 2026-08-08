@@ -1,251 +1,271 @@
-# 20 oportunidades de LinkedIn
+# 20 oportunidades de marketing, aplicaciones e inteligencia artificial
 
-Capturas tomadas desde la búsqueda de LinkedIn para atención al cliente en Panamá. Abre cada caso para ver la imagen, el enlace y el análisis.
+Ofertas buscadas en LinkedIn para Panamá y modalidad remota. Cada caso incluye captura, enlace y análisis desplegable.
 
 <details>
-<summary>Trabajo 01 — RECEPCION — Productos de Belleza S.A.</summary>
+<summary>Trabajo 01 — Marketing & Creative Ops Manager — PX.com</summary>
 
-![Captura del trabajo 01](screenshots/linkedin/trabajo-01.png)
+![Captura de la oferta 01](screenshots/linkedin/trabajo-01.png)
 
-- **Enlace de LinkedIn:** https://www.linkedin.com/jobs/search-results/?keywords=Servicio%20de%20atenci%C3%B3n%20al%20cliente%20On-site&geoId=100508521&distance=25.0
-- **Ubicación:** Panamá / área metropolitana
-- **Análisis:** Revisar requisitos, modalidad, salario, compatibilidad con el perfil y fecha de publicación antes de postular.
-- **Estado:** Pendiente de revisión
+- **Enlace de LinkedIn:** https://www.linkedin.com/jobs/search-results/?keywords=marketing%20inteligencia%20artificial&geoId=100508521&distance=25.0
+- **Área:** Marketing, growth, analítica, automatización o IA aplicada
+- **Modalidad:** Panamá, híbrido, presencial o remoto según la oferta
+- **Análisis del puesto:** Revisar cómo aplicar inteligencia artificial, automatización, datos y herramientas de marketing al objetivo del cargo. Comparar requisitos con tu experiencia en marketing y aplicaciones con IA.
+- **Estado:** Pendiente de revisar y postular
 
 </details>
 
 <details>
-<summary>Trabajo 02 — Customer Services Specialist — Nestlé</summary>
+<summary>Trabajo 02 — CRM Manager - Remote Work — BairesDev</summary>
 
-![Captura del trabajo 02](screenshots/linkedin/trabajo-02.png)
+![Captura de la oferta 02](screenshots/linkedin/trabajo-02.png)
 
-- **Enlace de LinkedIn:** https://www.linkedin.com/jobs/view/4450669095/
-- **Ubicación:** Panamá / área metropolitana
-- **Análisis:** Revisar requisitos, modalidad, salario, compatibilidad con el perfil y fecha de publicación antes de postular.
-- **Estado:** Pendiente de revisión
-
-</details>
-
-<details>
-<summary>Trabajo 03 — Recepcionista para Clínica Veterinaria</summary>
-
-![Captura del trabajo 03](screenshots/linkedin/trabajo-03.png)
-
-- **Enlace de LinkedIn:** https://www.linkedin.com/jobs/search-results/?keywords=Servicio%20de%20atenci%C3%B3n%20al%20cliente%20On-site&geoId=100508521&distance=25.0
-- **Ubicación:** Panamá / área metropolitana
-- **Análisis:** Revisar requisitos, modalidad, salario, compatibilidad con el perfil y fecha de publicación antes de postular.
-- **Estado:** Pendiente de revisión
+- **Enlace de LinkedIn:** https://www.linkedin.com/jobs/search-results/?keywords=marketing%20inteligencia%20artificial&geoId=100508521&distance=25.0
+- **Área:** Marketing, growth, analítica, automatización o IA aplicada
+- **Modalidad:** Panamá, híbrido, presencial o remoto según la oferta
+- **Análisis del puesto:** Revisar cómo aplicar inteligencia artificial, automatización, datos y herramientas de marketing al objetivo del cargo. Comparar requisitos con tu experiencia en marketing y aplicaciones con IA.
+- **Estado:** Pendiente de revisar y postular
 
 </details>
 
 <details>
-<summary>Trabajo 04 — CX Intern — A.P. Moller - Maersk</summary>
+<summary>Trabajo 03 — Lead Applied Scientist, Marketing — Launch Potato</summary>
 
-![Captura del trabajo 04](screenshots/linkedin/trabajo-04.png)
+![Captura de la oferta 03](screenshots/linkedin/trabajo-03.png)
 
-- **Enlace de LinkedIn:** https://www.linkedin.com/jobs/view/4449663592/
-- **Ubicación:** Panamá / área metropolitana
-- **Análisis:** Revisar requisitos, modalidad, salario, compatibilidad con el perfil y fecha de publicación antes de postular.
-- **Estado:** Pendiente de revisión
-
-</details>
-
-<details>
-<summary>Trabajo 05 — Asesor de Ventas y Experiencia al Cliente — Ultra Boxing Studio</summary>
-
-![Captura del trabajo 05](screenshots/linkedin/trabajo-05.png)
-
-- **Enlace de LinkedIn:** https://www.linkedin.com/jobs/view/4450759986/
-- **Ubicación:** Panamá / área metropolitana
-- **Análisis:** Revisar requisitos, modalidad, salario, compatibilidad con el perfil y fecha de publicación antes de postular.
-- **Estado:** Pendiente de revisión
+- **Enlace de LinkedIn:** https://www.linkedin.com/jobs/search-results/?keywords=marketing%20inteligencia%20artificial&geoId=100508521&distance=25.0
+- **Área:** Marketing, growth, analítica, automatización o IA aplicada
+- **Modalidad:** Panamá, híbrido, presencial o remoto según la oferta
+- **Análisis del puesto:** Revisar cómo aplicar inteligencia artificial, automatización, datos y herramientas de marketing al objetivo del cargo. Comparar requisitos con tu experiencia en marketing y aplicaciones con IA.
+- **Estado:** Pendiente de revisar y postular
 
 </details>
 
 <details>
-<summary>Trabajo 06 — Representante de servicio al cliente — Skechers</summary>
+<summary>Trabajo 04 — Staff Data Scientist, Marketing — Launch Potato</summary>
 
-![Captura del trabajo 06](screenshots/linkedin/trabajo-06.png)
+![Captura de la oferta 04](screenshots/linkedin/trabajo-04.png)
 
-- **Enlace de LinkedIn:** https://www.linkedin.com/jobs/view/4449913631/
-- **Ubicación:** Panamá / área metropolitana
-- **Análisis:** Revisar requisitos, modalidad, salario, compatibilidad con el perfil y fecha de publicación antes de postular.
-- **Estado:** Pendiente de revisión
-
-</details>
-
-<details>
-<summary>Trabajo 07 — Agente de experiencia al cliente — Bern Hotels & Resorts</summary>
-
-![Captura del trabajo 07](screenshots/linkedin/trabajo-07.png)
-
-- **Enlace de LinkedIn:** https://www.linkedin.com/jobs/view/4411542721/
-- **Ubicación:** Panamá / área metropolitana
-- **Análisis:** Revisar requisitos, modalidad, salario, compatibilidad con el perfil y fecha de publicación antes de postular.
-- **Estado:** Pendiente de revisión
+- **Enlace de LinkedIn:** https://www.linkedin.com/jobs/search-results/?keywords=marketing%20inteligencia%20artificial&geoId=100508521&distance=25.0
+- **Área:** Marketing, growth, analítica, automatización o IA aplicada
+- **Modalidad:** Panamá, híbrido, presencial o remoto según la oferta
+- **Análisis del puesto:** Revisar cómo aplicar inteligencia artificial, automatización, datos y herramientas de marketing al objetivo del cargo. Comparar requisitos con tu experiencia en marketing y aplicaciones con IA.
+- **Estado:** Pendiente de revisar y postular
 
 </details>
 
 <details>
-<summary>Trabajo 08 — Oficial de Experiencia al Cliente y Productos — Bi Bank Panamá</summary>
+<summary>Trabajo 05 — Experto en Performance y Analytic — Millicom (Tigo)</summary>
 
-![Captura del trabajo 08](screenshots/linkedin/trabajo-08.png)
+![Captura de la oferta 05](screenshots/linkedin/trabajo-05.png)
 
-- **Enlace de LinkedIn:** https://www.linkedin.com/jobs/view/4413639980/
-- **Ubicación:** Panamá / área metropolitana
-- **Análisis:** Revisar requisitos, modalidad, salario, compatibilidad con el perfil y fecha de publicación antes de postular.
-- **Estado:** Pendiente de revisión
-
-</details>
-
-<details>
-<summary>Trabajo 09 — Communications Operator — Hilton</summary>
-
-![Captura del trabajo 09](screenshots/linkedin/trabajo-09.png)
-
-- **Enlace de LinkedIn:** https://www.linkedin.com/jobs/search-results/?keywords=Servicio%20de%20atenci%C3%B3n%20al%20cliente%20On-site&geoId=100508521&distance=25.0
-- **Ubicación:** Panamá / área metropolitana
-- **Análisis:** Revisar requisitos, modalidad, salario, compatibilidad con el perfil y fecha de publicación antes de postular.
-- **Estado:** Pendiente de revisión
+- **Enlace de LinkedIn:** https://www.linkedin.com/jobs/search-results/?keywords=marketing%20inteligencia%20artificial&geoId=100508521&distance=25.0
+- **Área:** Marketing, growth, analítica, automatización o IA aplicada
+- **Modalidad:** Panamá, híbrido, presencial o remoto según la oferta
+- **Análisis del puesto:** Revisar cómo aplicar inteligencia artificial, automatización, datos y herramientas de marketing al objetivo del cargo. Comparar requisitos con tu experiencia en marketing y aplicaciones con IA.
+- **Estado:** Pendiente de revisar y postular
 
 </details>
 
 <details>
-<summary>Trabajo 10 — Asesor(a) de Ventas — Grupo Studio Floral</summary>
+<summary>Trabajo 06 — Data Scientist (Entry-Level) — Procter & Gamble</summary>
 
-![Captura del trabajo 10](screenshots/linkedin/trabajo-10.png)
+![Captura de la oferta 06](screenshots/linkedin/trabajo-06.png)
 
-- **Enlace de LinkedIn:** https://www.linkedin.com/jobs/view/4447538116/
-- **Ubicación:** Panamá / área metropolitana
-- **Análisis:** Revisar requisitos, modalidad, salario, compatibilidad con el perfil y fecha de publicación antes de postular.
-- **Estado:** Pendiente de revisión
-
-</details>
-
-<details>
-<summary>Trabajo 11 — Billing Specialist — Grainger</summary>
-
-![Captura del trabajo 11](screenshots/linkedin/trabajo-11.png)
-
-- **Enlace de LinkedIn:** https://www.linkedin.com/jobs/view/4450658558/
-- **Ubicación:** Panamá / área metropolitana
-- **Análisis:** Revisar requisitos, modalidad, salario, compatibilidad con el perfil y fecha de publicación antes de postular.
-- **Estado:** Pendiente de revisión
+- **Enlace de LinkedIn:** https://www.linkedin.com/jobs/search-results/?keywords=marketing%20inteligencia%20artificial&geoId=100508521&distance=25.0
+- **Área:** Marketing, growth, analítica, automatización o IA aplicada
+- **Modalidad:** Panamá, híbrido, presencial o remoto según la oferta
+- **Análisis del puesto:** Revisar cómo aplicar inteligencia artificial, automatización, datos y herramientas de marketing al objetivo del cargo. Comparar requisitos con tu experiencia en marketing y aplicaciones con IA.
+- **Estado:** Pendiente de revisar y postular
 
 </details>
 
 <details>
-<summary>Trabajo 12 — Customer Support Analyst — Alfa Laval</summary>
+<summary>Trabajo 07 — Product Marketing Manager — PX.com</summary>
 
-![Captura del trabajo 12](screenshots/linkedin/trabajo-12.png)
+![Captura de la oferta 07](screenshots/linkedin/trabajo-07.png)
 
-- **Enlace de LinkedIn:** https://www.linkedin.com/jobs/view/4450765607/
-- **Ubicación:** Panamá / área metropolitana
-- **Análisis:** Revisar requisitos, modalidad, salario, compatibilidad con el perfil y fecha de publicación antes de postular.
-- **Estado:** Pendiente de revisión
-
-</details>
-
-<details>
-<summary>Trabajo 13 — Cajero(a) — Banco Nacional de Panamá</summary>
-
-![Captura del trabajo 13](screenshots/linkedin/trabajo-13.png)
-
-- **Enlace de LinkedIn:** https://www.linkedin.com/jobs/view/4421908437/
-- **Ubicación:** Panamá / área metropolitana
-- **Análisis:** Revisar requisitos, modalidad, salario, compatibilidad con el perfil y fecha de publicación antes de postular.
-- **Estado:** Pendiente de revisión
+- **Enlace de LinkedIn:** https://www.linkedin.com/jobs/search-results/?keywords=marketing%20inteligencia%20artificial&geoId=100508521&distance=25.0
+- **Área:** Marketing, growth, analítica, automatización o IA aplicada
+- **Modalidad:** Panamá, híbrido, presencial o remoto según la oferta
+- **Análisis del puesto:** Revisar cómo aplicar inteligencia artificial, automatización, datos y herramientas de marketing al objetivo del cargo. Comparar requisitos con tu experiencia en marketing y aplicaciones con IA.
+- **Estado:** Pendiente de revisar y postular
 
 </details>
 
 <details>
-<summary>Trabajo 14 — Track and Trace Representative — Circle Logistics</summary>
+<summary>Trabajo 08 — Staff Applied Scientist, AdTech — Launch Potato</summary>
 
-![Captura del trabajo 14](screenshots/linkedin/trabajo-14.png)
+![Captura de la oferta 08](screenshots/linkedin/trabajo-08.png)
 
-- **Enlace de LinkedIn:** https://www.linkedin.com/jobs/view/4413703366/
-- **Ubicación:** Panamá / área metropolitana
-- **Análisis:** Revisar requisitos, modalidad, salario, compatibilidad con el perfil y fecha de publicación antes de postular.
-- **Estado:** Pendiente de revisión
-
-</details>
-
-<details>
-<summary>Trabajo 15 — Asistente de Soporte de Servicio al Cliente — OMC GROUP</summary>
-
-![Captura del trabajo 15](screenshots/linkedin/trabajo-15.png)
-
-- **Enlace de LinkedIn:** https://www.linkedin.com/jobs/view/4409622611/
-- **Ubicación:** Panamá / área metropolitana
-- **Análisis:** Revisar requisitos, modalidad, salario, compatibilidad con el perfil y fecha de publicación antes de postular.
-- **Estado:** Pendiente de revisión
+- **Enlace de LinkedIn:** https://www.linkedin.com/jobs/search-results/?keywords=marketing%20inteligencia%20artificial&geoId=100508521&distance=25.0
+- **Área:** Marketing, growth, analítica, automatización o IA aplicada
+- **Modalidad:** Panamá, híbrido, presencial o remoto según la oferta
+- **Análisis del puesto:** Revisar cómo aplicar inteligencia artificial, automatización, datos y herramientas de marketing al objetivo del cargo. Comparar requisitos con tu experiencia en marketing y aplicaciones con IA.
+- **Estado:** Pendiente de revisar y postular
 
 </details>
 
 <details>
-<summary>Trabajo 16 — Oficial de Servicio al Cliente — Platinum Brands S.A.</summary>
+<summary>Trabajo 09 — Lead Data Scientist, AdTech — Launch Potato</summary>
 
-![Captura del trabajo 16](screenshots/linkedin/trabajo-16.png)
+![Captura de la oferta 09](screenshots/linkedin/trabajo-09.png)
 
-- **Enlace de LinkedIn:** https://www.linkedin.com/jobs/view/4438435681/
-- **Ubicación:** Panamá / área metropolitana
-- **Análisis:** Revisar requisitos, modalidad, salario, compatibilidad con el perfil y fecha de publicación antes de postular.
-- **Estado:** Pendiente de revisión
-
-</details>
-
-<details>
-<summary>Trabajo 17 — Customer Service and Sales Representatives — Insignia Resources</summary>
-
-![Captura del trabajo 17](screenshots/linkedin/trabajo-17.png)
-
-- **Enlace de LinkedIn:** https://www.linkedin.com/jobs/view/4447065140/
-- **Ubicación:** Panamá / área metropolitana
-- **Análisis:** Revisar requisitos, modalidad, salario, compatibilidad con el perfil y fecha de publicación antes de postular.
-- **Estado:** Pendiente de revisión
+- **Enlace de LinkedIn:** https://www.linkedin.com/jobs/search-results/?keywords=marketing%20inteligencia%20artificial&geoId=100508521&distance=25.0
+- **Área:** Marketing, growth, analítica, automatización o IA aplicada
+- **Modalidad:** Panamá, híbrido, presencial o remoto según la oferta
+- **Análisis del puesto:** Revisar cómo aplicar inteligencia artificial, automatización, datos y herramientas de marketing al objetivo del cargo. Comparar requisitos con tu experiencia en marketing y aplicaciones con IA.
+- **Estado:** Pendiente de revisar y postular
 
 </details>
 
 <details>
-<summary>Trabajo 18 — Asesor de Admisiones — Universidad del Istmo</summary>
+<summary>Trabajo 10 — Agentic AI Solutions Architect — Bluelight</summary>
 
-![Captura del trabajo 18](screenshots/linkedin/trabajo-18.png)
+![Captura de la oferta 10](screenshots/linkedin/trabajo-10.png)
 
-- **Enlace de LinkedIn:** https://www.linkedin.com/jobs/view/4442860600/
-- **Ubicación:** Panamá / área metropolitana
-- **Análisis:** Revisar requisitos, modalidad, salario, compatibilidad con el perfil y fecha de publicación antes de postular.
-- **Estado:** Pendiente de revisión
-
-</details>
-
-<details>
-<summary>Trabajo 19 — Supervisor(a) de Experiencia al Cliente – Retail — Grupo de Haseth</summary>
-
-![Captura del trabajo 19](screenshots/linkedin/trabajo-19.png)
-
-- **Enlace de LinkedIn:** https://www.linkedin.com/jobs/view/4408430823/
-- **Ubicación:** Panamá / área metropolitana
-- **Análisis:** Revisar requisitos, modalidad, salario, compatibilidad con el perfil y fecha de publicación antes de postular.
-- **Estado:** Pendiente de revisión
+- **Enlace de LinkedIn:** https://www.linkedin.com/jobs/search-results/?keywords=marketing%20inteligencia%20artificial&geoId=100508521&distance=25.0
+- **Área:** Marketing, growth, analítica, automatización o IA aplicada
+- **Modalidad:** Panamá, híbrido, presencial o remoto según la oferta
+- **Análisis del puesto:** Revisar cómo aplicar inteligencia artificial, automatización, datos y herramientas de marketing al objetivo del cargo. Comparar requisitos con tu experiencia en marketing y aplicaciones con IA.
+- **Estado:** Pendiente de revisar y postular
 
 </details>
 
 <details>
-<summary>Trabajo 20 — Agente Operativo Revenue</summary>
+<summary>Trabajo 11 — Consumer Knowledge Specialist — Nestlé</summary>
 
-![Captura del trabajo 20](screenshots/linkedin/trabajo-20.png)
+![Captura de la oferta 11](screenshots/linkedin/trabajo-11.png)
 
-- **Enlace de LinkedIn:** https://www.linkedin.com/jobs/view/4448533796/
-- **Ubicación:** Panamá / área metropolitana
-- **Análisis:** Revisar requisitos, modalidad, salario, compatibilidad con el perfil y fecha de publicación antes de postular.
-- **Estado:** Pendiente de revisión
+- **Enlace de LinkedIn:** https://www.linkedin.com/jobs/search-results/?keywords=marketing%20inteligencia%20artificial&geoId=100508521&distance=25.0
+- **Área:** Marketing, growth, analítica, automatización o IA aplicada
+- **Modalidad:** Panamá, híbrido, presencial o remoto según la oferta
+- **Análisis del puesto:** Revisar cómo aplicar inteligencia artificial, automatización, datos y herramientas de marketing al objetivo del cargo. Comparar requisitos con tu experiencia en marketing y aplicaciones con IA.
+- **Estado:** Pendiente de revisar y postular
+
+</details>
+
+<details>
+<summary>Trabajo 12 — Market Share Data Specialist — Nestlé</summary>
+
+![Captura de la oferta 12](screenshots/linkedin/trabajo-12.png)
+
+- **Enlace de LinkedIn:** https://www.linkedin.com/jobs/search-results/?keywords=marketing%20inteligencia%20artificial&geoId=100508521&distance=25.0
+- **Área:** Marketing, growth, analítica, automatización o IA aplicada
+- **Modalidad:** Panamá, híbrido, presencial o remoto según la oferta
+- **Análisis del puesto:** Revisar cómo aplicar inteligencia artificial, automatización, datos y herramientas de marketing al objetivo del cargo. Comparar requisitos con tu experiencia en marketing y aplicaciones con IA.
+- **Estado:** Pendiente de revisar y postular
+
+</details>
+
+<details>
+<summary>Trabajo 13 — Marketing Strategy Specialist — Atomic - Remote Jobs</summary>
+
+![Captura de la oferta 13](screenshots/linkedin/trabajo-13.png)
+
+- **Enlace de LinkedIn:** https://www.linkedin.com/jobs/search-results/?keywords=marketing%20inteligencia%20artificial&geoId=100508521&distance=25.0
+- **Área:** Marketing, growth, analítica, automatización o IA aplicada
+- **Modalidad:** Panamá, híbrido, presencial o remoto según la oferta
+- **Análisis del puesto:** Revisar cómo aplicar inteligencia artificial, automatización, datos y herramientas de marketing al objetivo del cargo. Comparar requisitos con tu experiencia en marketing y aplicaciones con IA.
+- **Estado:** Pendiente de revisar y postular
+
+</details>
+
+<details>
+<summary>Trabajo 14 — GERENTE DE GROWTH MARKETING — Cochez y Cia S.A.</summary>
+
+![Captura de la oferta 14](screenshots/linkedin/trabajo-14.png)
+
+- **Enlace de LinkedIn:** https://www.linkedin.com/jobs/search-results/?keywords=marketing%20inteligencia%20artificial&geoId=100508521&distance=25.0
+- **Área:** Marketing, growth, analítica, automatización o IA aplicada
+- **Modalidad:** Panamá, híbrido, presencial o remoto según la oferta
+- **Análisis del puesto:** Revisar cómo aplicar inteligencia artificial, automatización, datos y herramientas de marketing al objetivo del cargo. Comparar requisitos con tu experiencia en marketing y aplicaciones con IA.
+- **Estado:** Pendiente de revisar y postular
+
+</details>
+
+<details>
+<summary>Trabajo 15 — Digital Account Manager | PPC & SEO — Chili</summary>
+
+![Captura de la oferta 15](screenshots/linkedin/trabajo-15.png)
+
+- **Enlace de LinkedIn:** https://www.linkedin.com/jobs/search-results/?keywords=marketing%20inteligencia%20artificial&geoId=100508521&distance=25.0
+- **Área:** Marketing, growth, analítica, automatización o IA aplicada
+- **Modalidad:** Panamá, híbrido, presencial o remoto según la oferta
+- **Análisis del puesto:** Revisar cómo aplicar inteligencia artificial, automatización, datos y herramientas de marketing al objetivo del cargo. Comparar requisitos con tu experiencia en marketing y aplicaciones con IA.
+- **Estado:** Pendiente de revisar y postular
+
+</details>
+
+<details>
+<summary>Trabajo 16 — Especialista de Data y Analítica — Banesco Panamá</summary>
+
+![Captura de la oferta 16](screenshots/linkedin/trabajo-16.png)
+
+- **Enlace de LinkedIn:** https://www.linkedin.com/jobs/search-results/?keywords=marketing%20inteligencia%20artificial&geoId=100508521&distance=25.0
+- **Área:** Marketing, growth, analítica, automatización o IA aplicada
+- **Modalidad:** Panamá, híbrido, presencial o remoto según la oferta
+- **Análisis del puesto:** Revisar cómo aplicar inteligencia artificial, automatización, datos y herramientas de marketing al objetivo del cargo. Comparar requisitos con tu experiencia en marketing y aplicaciones con IA.
+- **Estado:** Pendiente de revisar y postular
+
+</details>
+
+<details>
+<summary>Trabajo 17 — Business Analyst — PayJoy</summary>
+
+![Captura de la oferta 17](screenshots/linkedin/trabajo-17.png)
+
+- **Enlace de LinkedIn:** https://www.linkedin.com/jobs/search-results/?keywords=marketing%20inteligencia%20artificial&geoId=100508521&distance=25.0
+- **Área:** Marketing, growth, analítica, automatización o IA aplicada
+- **Modalidad:** Panamá, híbrido, presencial o remoto según la oferta
+- **Análisis del puesto:** Revisar cómo aplicar inteligencia artificial, automatización, datos y herramientas de marketing al objetivo del cargo. Comparar requisitos con tu experiencia en marketing y aplicaciones con IA.
+- **Estado:** Pendiente de revisar y postular
+
+</details>
+
+<details>
+<summary>Trabajo 18 — Demand Generation Account Coordinator — Confidential</summary>
+
+![Captura de la oferta 18](screenshots/linkedin/trabajo-18.png)
+
+- **Enlace de LinkedIn:** https://www.linkedin.com/jobs/search-results/?keywords=marketing%20inteligencia%20artificial&geoId=100508521&distance=25.0
+- **Área:** Marketing, growth, analítica, automatización o IA aplicada
+- **Modalidad:** Panamá, híbrido, presencial o remoto según la oferta
+- **Análisis del puesto:** Revisar cómo aplicar inteligencia artificial, automatización, datos y herramientas de marketing al objetivo del cargo. Comparar requisitos con tu experiencia en marketing y aplicaciones con IA.
+- **Estado:** Pendiente de revisar y postular
+
+</details>
+
+<details>
+<summary>Trabajo 19 — Marketing Automation Specialist — búsqueda relacionada</summary>
+
+![Captura de la oferta 19](screenshots/linkedin/trabajo-19.png)
+
+- **Enlace de LinkedIn:** https://www.linkedin.com/jobs/search-results/?keywords=marketing%20inteligencia%20artificial&geoId=100508521&distance=25.0
+- **Área:** Marketing, growth, analítica, automatización o IA aplicada
+- **Modalidad:** Panamá, híbrido, presencial o remoto según la oferta
+- **Análisis del puesto:** Revisar cómo aplicar inteligencia artificial, automatización, datos y herramientas de marketing al objetivo del cargo. Comparar requisitos con tu experiencia en marketing y aplicaciones con IA.
+- **Estado:** Pendiente de revisar y postular
+
+</details>
+
+<details>
+<summary>Trabajo 20 — AI Marketing Specialist — búsqueda relacionada</summary>
+
+![Captura de la oferta 20](screenshots/linkedin/trabajo-20.png)
+
+- **Enlace de LinkedIn:** https://www.linkedin.com/jobs/search-results/?keywords=marketing%20inteligencia%20artificial&geoId=100508521&distance=25.0
+- **Área:** Marketing, growth, analítica, automatización o IA aplicada
+- **Modalidad:** Panamá, híbrido, presencial o remoto según la oferta
+- **Análisis del puesto:** Revisar cómo aplicar inteligencia artificial, automatización, datos y herramientas de marketing al objetivo del cargo. Comparar requisitos con tu experiencia en marketing y aplicaciones con IA.
+- **Estado:** Pendiente de revisar y postular
 
 </details>
 
 ## Checklist
 
-- [x] 20 capturas guardadas en `screenshots/linkedin/`.
-- [x] 20 bloques desplegables.
-- [x] Enlace asociado a cada caso.
-- [ ] Completar salario, requisitos y estado de postulación.
+- [x] 20 casos desplegables.
+- [x] Capturas actualizadas con la búsqueda de marketing e IA.
+- [x] Enlace de búsqueda de LinkedIn en cada caso.
+- [ ] Abrir cada oferta para completar el enlace individual y requisitos exactos.
 
