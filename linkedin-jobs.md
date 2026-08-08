@@ -6,16 +6,16 @@ Cada trabajo está dentro de un bloque desplegable. La primera captura real de r
 > No incluyas contraseñas, mensajes privados ni datos personales.
 
 <details>
-<summary>Trabajo 01 — Por completar</summary>
+<summary>Trabajo 01 — Recepcionista, Productos de Belleza S.A.</summary>
 
-![Captura de resultados de LinkedIn](screenshots/linkedin/trabajos-panama-servicio-cliente.png)
+![Captura del trabajo 01](screenshots/linkedin/trabajo-01.png)
 
-- **Cargo:** Por completar
-- **Empresa:** Por completar
-- **Ubicación/modalidad:** Por completar
-- **Enlace de LinkedIn:** Por completar
-- **Fecha de publicación:** Por completar
-- **Tipo de contrato:** Por completar
+- **Cargo:** Recepcionista
+- **Empresa:** Productos de Belleza S.A. / Empresa NEVADA S.A.
+- **Ubicación/modalidad:** Don Bosco, Panamá
+- **Enlace de LinkedIn:** https://www.linkedin.com/jobs/search-results/?currentJobId=4442251992&keywords=Servicio%20de%20atenci%C3%B3n%20al%20cliente%20On-site&geoId=100508521&distance=25.0
+- **Fecha de publicación:** Hace 2 semanas
+- **Tipo de contrato:** Tiempo completo
 - **Salario o rango:** Por completar
 - **Requisitos principales:** Por completar
 - **Tecnologías o habilidades:** Por completar
