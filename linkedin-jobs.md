@@ -1,6 +1,6 @@
 # 20 oportunidades de trabajo en LinkedIn
 
-Cada trabajo está dentro de un bloque desplegable. Coloca las capturas en `screenshots/linkedin/` usando los nombres indicados.
+Cada trabajo está dentro de un bloque desplegable. La primera captura real de resultados está guardada en `screenshots/linkedin/trabajos-panama-servicio-cliente.png`; agrega las capturas individuales de cada oferta en la misma carpeta.
 
 > Formato de captura: `screenshots/linkedin/trabajo-01.png` hasta `trabajo-20.png`.
 > No incluyas contraseñas, mensajes privados ni datos personales.
@@ -8,7 +8,7 @@ Cada trabajo está dentro de un bloque desplegable. Coloca las capturas en `scre
 <details>
 <summary>Trabajo 01 — Por completar</summary>
 
-![Captura del trabajo 01](screenshots/linkedin/trabajo-01.png)
+![Captura de resultados de LinkedIn](screenshots/linkedin/trabajos-panama-servicio-cliente.png)
 
 - **Cargo:** Por completar
 - **Empresa:** Por completar
@@ -371,4 +371,3 @@ Cada trabajo está dentro de un bloque desplegable. Coloca las capturas en `scre
 - [ ] Cada captura está en `screenshots/linkedin/`.
 - [ ] Los enlaces fueron verificados.
 - [ ] Se ocultaron datos privados.
-
