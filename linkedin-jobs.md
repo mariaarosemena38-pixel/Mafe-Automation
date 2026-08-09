@@ -10,6 +10,15 @@ Información preparada con el CV de María Fernanda Arosemena. **No se envía ni
 ![Ficha completa](screenshots/linkedin/trabajo-01.png)
 
 - **Enlace:** https://www.linkedin.com/jobs/view/4450627409/
+- **Easy Apply — datos rellenados (sin enviar):**
+  - **CV:** `CV, MARÍA AROSMENA.pdf`
+  - **Email:** `mariaarosemena38@gmail.com`
+  - **Teléfono:** `+507 6171-1440`
+  - **Licenciatura obtenida:** No (en curso)
+  - **Nivel de Meta Ads indicado:** 6/10
+  - **Programas de diseño indicados:** 3
+  - **Salario deseado:** USD 1,200 o más
+- **Estado:** Formulario completado hasta “Review”; **no se pulsó “Submit application”**.
 - **Salario deseado:** USD 1,200 o más
 - **Perfil aplicable:** Marketing con IA, análisis de métricas, contenido, campañas y automatización.
 - **Experiencia relevante del CV:** El Príncipe Azul (2025–actualidad), agentes de IA, Claude, Notion, estrategia de marca, contenido y análisis de rendimiento.
@@ -350,4 +359,3 @@ Información preparada con el CV de María Fernanda Arosemena. **No se envía ni
 - Adaptar carta de presentación a cada descripción.
 - Verificar salario y requisitos específicos.
 - No se ha enviado ninguna aplicación.
-
