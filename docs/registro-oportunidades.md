@@ -1,5 +1,7 @@
 # Registro de oportunidades
 
+Para el análisis completo de compatibilidad, flexibilidad, beneficios y brechas de la ronda actual, ver [fichas priorizadas del 21 de octubre de 2026](fichas-priorizadas-2026-10-21.md).
+
 > Este documento es el respaldo legible del seguimiento. Supabase será la fuente operativa cuando se conecte; GitHub conserva el historial y las reglas sin datos sensibles.
 
 ## Cola de revisión
