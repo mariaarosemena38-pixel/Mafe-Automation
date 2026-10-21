@@ -103,26 +103,26 @@ stateDiagram-v2
 
 Con 60 puntos o más, el sistema prepara una ficha para revisión. Entre 40 y 59, conserva la vacante como opción secundaria. Por debajo de 40, archiva con el motivo.
 
-## Piloto y evolución
+## Ejecución de hoy
 
 ```mermaid
 gantt
-  title Piloto inicial y expansión del sistema
+  title Activación inicial — hoy
   dateFormat  YYYY-MM-DD
   axisFormat  %d %b
-  section Fundación
-  Centralizar plan y reglas en GitHub       :done, 2026-10-21, 1d
-  Conectar proyecto Supabase                :crit, 2026-10-22, 2d
-  Preparar CV maestro y banco de logros     :2026-10-22, 3d
-  section Piloto
-  Búsqueda asistida: 2 horas, lunes a viernes :2026-10-27, 10d
-  Revisar cola y aprobar postulaciones        :2026-10-27, 10d
-  section Decisión
-  Medir calidad, respuestas y tiempo invertido :2026-11-07, 1d
-  Ampliar a búsqueda continua                  :milestone, 2026-11-10, 0d
+  section Base operativa
+  Plan y reglas en GitHub                   :done, 2026-10-21, 1d
+  Registro de oportunidades                 :done, 2026-10-21, 1d
+  Banco de logros del CV                    :done, 2026-10-21, 1d
+  section Activación
+  Configurar fuentes y consultas            :active, 2026-10-21, 1d
+  Preparar migración de Supabase             :2026-10-21, 1d
+  Ejecutar primera búsqueda de 2 horas       :2026-10-21, 1d
 ```
 
-Durante el piloto, la ventana diaria es de dos horas:
+Hoy se deja todo lo que no dependa de una cuenta externa listo para usar. Los únicos pasos que pueden requerir intervención son conectar un proyecto Supabase y entregar el PDF del CV para completar los logros con métricas reales.
+
+La primera búsqueda se ejecuta en un bloque de dos horas:
 
 ```mermaid
 gantt
@@ -139,7 +139,7 @@ gantt
   Aprobaciones y seguimiento           :10:35, 25m
 ```
 
-Después del piloto, el agente debe usar un ciclo de bajo costo durante las horas laborales: consultar fuentes en intervalos escalonados, guardar huellas de cambios y llamar a IA únicamente para una vacante nueva o cambiada. La revisión humana seguirá ocurriendo en una o dos ventanas cortas al día.
+Después de validar esta primera ejecución, el agente usará un ciclo de bajo costo durante las horas laborales: consultar fuentes en intervalos escalonados, guardar huellas de cambios y llamar a IA únicamente para una vacante nueva o cambiada. La revisión humana seguirá ocurriendo en una o dos ventanas cortas al día.
 
 ## Registro y respaldo
 
